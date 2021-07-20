@@ -90,7 +90,7 @@ body{
 	width: 100%;
 }
 .left-block-image{
-	background-image: url("../images/image.jpg");
+	background-image: url("../images/Image.jpg");
 	height: 500px;
 	background-repeat: no-repeat;
 	/*background-size: inherit;*/
